@@ -105,7 +105,7 @@ const Footer = () => {
 
         <div className="mt-14 grid gap-10 border-t border-white/5 pt-10 lg:grid-cols-[1fr_auto_auto] lg:items-center">
           <div className="text-sm text-gray-400">
-            © Copyrighted and Designed by .....
+            © 2024 Your Company Name. All rights reserved.
           </div>
 
           <div className="flex items-center gap-4">
